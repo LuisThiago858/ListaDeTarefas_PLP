@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListaDeTarefas</string>
+
+
+    <string name="hint_titulo">Título</string>
+    <string name="hint_descricao">Descrição</string>
+    <string name="hint_data_prazo">Data de Prazo</string>
+    <string name="button_salvar">Salvar</string>
+
+</resources>
